@@ -1,0 +1,16 @@
+{
+  "name": "roomautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WIFIConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dns": "^0.2.2",
+    "nodemailer": "^5.1.1",
+    "twitter": "^1.7.1"
+  }
+}
